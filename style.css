@@ -26,3 +26,6 @@ section#featured-property p {
   margin-left: auto;
   margin-right: auto;
 }
+section#details {
+  display: block;
+}
