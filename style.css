@@ -3,7 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
-h1, a {text-align: center;}
+h1 {text-align: center;}
 img {display: block;
   margin-left: auto;
   margin-right: auto;}
