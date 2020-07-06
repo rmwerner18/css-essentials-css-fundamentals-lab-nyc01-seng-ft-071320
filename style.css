@@ -22,5 +22,5 @@ section figcaption {
 }
 section#featured-property p {
   width: 800px;
-  align: center;
+  text-align: center;
 }
