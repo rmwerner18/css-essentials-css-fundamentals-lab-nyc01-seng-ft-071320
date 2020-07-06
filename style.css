@@ -32,4 +32,6 @@ section#details {
 section#details div {
   float: left;
   background-color: #ff2222;
+  text-align: center;
+  width: .25;
 }
